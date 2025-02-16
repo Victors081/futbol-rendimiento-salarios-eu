@@ -21,3 +21,5 @@ renv/library/
 
 # Ignorar archivos temporales generados por renv
 renv/.tmp/
+
+.venv
